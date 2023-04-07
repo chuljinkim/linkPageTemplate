@@ -8,5 +8,10 @@ body {
 }
 
 button {
-    width: 200px;
+    width: 180px;
 }
+
+.image-container {
+    text-align: center;
+  }
+  
